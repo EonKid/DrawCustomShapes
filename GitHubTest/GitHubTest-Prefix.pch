@@ -1,0 +1,43 @@
+//
+//  SNSales-Prefix.pch
+//  SNSales
+//
+//  Created by od1914@my.bristol.ac.uk on 7/9/15.
+//  Copyright (c) 2015 CatalystMobile. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#endif
+
+#define keyDefaultAnimationDuration 0.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

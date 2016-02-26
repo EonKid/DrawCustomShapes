@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainVC.h
 //  GitHubTest
 //
 //  Created by OlDor on 2/25/16.
@@ -8,8 +8,36 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainVC : UIViewController
 
 @end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
